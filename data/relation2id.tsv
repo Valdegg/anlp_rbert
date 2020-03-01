@@ -1,0 +1,10 @@
+'causes1-causes2(e1,e2)',
+ 'causes2-causes1(e2,e1)',
+ 'contraindicates1-contraindicates2(e1,e2)',
+ 'contraindicates2-contraindicates1(e2,e1)',
+ 'location1-location2(e1,e2)',
+ 'location2-location1(e2,e1)',
+ 'treats1-treats2(e1,e2)',
+ 'treats2-treats1(e2,e1)',
+ 'diagnosed by1-diagnosed by2(e1,e2)',
+ 'diagnosed by2-diagnosed by1(e2,e1)'
