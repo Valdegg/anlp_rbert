@@ -17,3 +17,4 @@ This custom R-Bert model is then fine tuned for our data and used to predict wha
 Data: https://www.kaggle.com/kmader/figure-eight-medical-sentence-summary
 
 
+TRAINED MODEL: https://drive.google.com/open?id=1D12EiIglMuyRqQB1wKpddSl80KHI4N7N
